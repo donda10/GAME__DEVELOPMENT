@@ -302,4 +302,5 @@ int main()
 ![image](https://github.com/user-attachments/assets/a9b1e7aa-c95c-46f4-8012-c0bcbd64ad81)
 
 **Result :**
+
 Successfully completed a C program to implement 2D transformation of image.
